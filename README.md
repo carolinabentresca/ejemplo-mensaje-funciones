@@ -1,3 +1,4 @@
-# Ejemplo-Mensaje-Funciones
-### Proyecto Java /  Java Application
-### Ejemplo básico de funciones (enviar mensajes)
+## Funciones
+### Proyecto Java Application
+- #### Ejemplo básico de funciones 
+- #### Enviamos un mensajes
